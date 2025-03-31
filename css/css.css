@@ -1,0 +1,70 @@
+body {
+    padding-top: 56px; /* Ajuste conforme a altura do seu navbar */
+}
+
+.bg-cordefundo {
+    background-color: rgb(94, 187, 190);
+}
+
+.nav-link {
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.nav-link:hover {
+    color: rgb(26, 104, 95);
+    font-weight: bold;
+}
+.navbar .nav-item {
+    padding: 0 0.8rem;
+  }
+
+.img-corpo {
+    width: 100%;
+}
+
+.txt-paragrafo {
+    color: rgb(26, 104, 95);
+}
+
+.txt-paragrafo-branco {
+    color: white;
+}
+
+.txt-paragrafo-branco {
+    text-align:center ;
+    font-size: 1.5rem;
+}
+
+.txt-paragrafo-subtitulo {
+    color: rgb(26, 104, 95);
+    font-weight: bolder;
+}
+
+.link-pequeno:link {
+    color: rgb(26, 104, 95);
+    text-decoration: none;
+}
+.link-pequeno:hover {
+    color: rgb(26, 104, 95);
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.text-dark {
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.text-subtitulo-pequeno {
+    color: rgb(26, 104, 95);
+    font-weight: bold;
+}
+
+.texto-pequeno {
+    color: rgb(26, 104, 95);
+    font-size: 0.9rem;
+}
+
+
